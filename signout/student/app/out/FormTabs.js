@@ -1,0 +1,2 @@
+Ext.define("Signout.view.components.FormTabs",{extend:"Ext.tab.Panel",xtype:"form-tabs",border:!1,requires:["Ext.tab.*","Signout.view.forms.cards.DaylightCard","Signout.view.forms.cards.6PMCard"],plain:!1,activeTab:0,tabPosition:"top",title:"Sign-Out Desk",frame:!0,defaults:{},layout:"card",items:[{title:"Daylight",xtype:"daylightcard"},{disabled:"true",title:"6 pm",xtype:"6pmcard"},{disabled:"true",title:"Curfew"},{disabled:"true",title:"Overnight"}]});
+//Allan Jiang 2013-07-27 16:59:16 app ./view/components/FormTabs.js

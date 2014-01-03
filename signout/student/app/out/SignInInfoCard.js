@@ -1,0 +1,2 @@
+Ext.define("Signout.view.grids.cards.SignInInfoCard",{extend:"Ext.container.Container",xtype:"sign-in-info-card",requires:["Signout.view.forms.SignInInfo"],autoScroll:!0,layout:{type:"vbox",align:"middle",pack:"center"},items:[{xtype:"sign-in-info",flex:1,width:"100%",margins:"0 0 7",buttonAlign:"center",buttons:[{width:"50%",text:"Sign-In",id:"signinbtn"}]}]});
+//Allan Jiang 2013-07-27 17:00:15 app ./view/grids/cards/SignInInfoCard.js

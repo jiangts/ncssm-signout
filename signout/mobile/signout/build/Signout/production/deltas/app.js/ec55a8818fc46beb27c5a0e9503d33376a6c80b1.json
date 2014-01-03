@@ -1,0 +1,1 @@
+["/*62d08af161b597750dd2a058cc07ec7cb8e8783",41,547264,"},show:function(){",547306,471,"console.log(\"current title: \"+b.config.title);",547777,10895,"console.log(\"create a main view\");",558672,295,"a",558968,73,"views=Ext.ComponentQuery.query(\"loginview\");if(loginviews.length==0){",559036,44,"}else{loginscreen=loginviews[0]}",559081,74,559298,1980]

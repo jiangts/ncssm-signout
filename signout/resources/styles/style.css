@@ -1,0 +1,47 @@
+/**/
+/* Header Info */
+/*
+#app-header-title {
+    font-size: 16px;
+    color: red;
+}
+*/
+.welcome-text-homecard{
+    font-size:15px;
+    padding:0px 6px 6px 0px;
+    text-align:'center';
+}
+#app-header-title{
+    padding:10px 10px 10px 10px;
+    /*background:url(images/logo.png) no-repeat 10px 11px;*/
+    color:#04408c;
+    font-size:18px;
+    font-weight:bold;
+    text-shadow:0 1px 0 gray;
+}
+/* Loading screen customization */
+.x-mask.splashscreen {
+        background-color: white;
+        opacity: 1;
+}
+    
+.x-mask-msg.splashscreen,
+.x-mask-msg.splashscreen div {
+        font-size: 16px;
+        padding: 30px 5px 5px 5px;
+        border: none;
+        background-color: transparent;
+        background-position: top center;
+}
+    
+.x-message-box .x-window-body .x-box-inner {
+        min-height: 110px !important;
+}
+    
+.x-splash-icon {
+        /* Important required due to the loading symbols CSS selector */
+        /*background-image: url('../images/cupola-real-png.png') !important;*/
+        margin-top: -30px;
+        margin-bottom: 10px;
+}
+

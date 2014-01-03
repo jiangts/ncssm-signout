@@ -1,0 +1,12 @@
+increase height of SignInInfo grid cells
+
+resolve form tabs UI design issue
+
+Possible:
+Make a paging grid view for record history
+http://localhost/ext/examples/grid/paging.html
+
+http://localhost/ext/examples/window/window.html
+for windows and headers settings
+
+

@@ -1,0 +1,3 @@
+Ext.define("Signout.view.Viewport",{extend:"Ext.container.Viewport",requires:["Signout.view.components.Header","Signout.view.components.Main","Signout.view.components.SignInDesk"],layout:{type:"vbox",align:"center",pack:"center"},defaults:{bodyPadding:10},bodyBorder:!1,items:[{xtype:"panel",width:700,flex:1,border:!1,layout:{type:"vbox",align:"stretch",pack:"start"},items:[{xtype:"appheader",margins:"0 15",height:80},{xtype:"panel",bodyPadding:10,border:!1,layout:{type:"hbox",align:"stretch",pack:"start"},
+defaults:{border:!1},items:[{xtype:"mainview",flex:4,margins:"0 5",height:230},{xtype:"sign-in-desk",flex:3,margins:"0 5",height:230}]}]}]});
+//Allan Jiang 2013-07-27 16:58:51 app ./view/Viewport.js

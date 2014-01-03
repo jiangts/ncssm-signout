@@ -1,0 +1,2 @@
+var required='<span style="color:red;font-weight:bold" data-qtip="Required">*</span>',transportation=Ext.create("Signout.store.Transportations");Ext.define("Signout.view.components.Main",{extend:"Ext.panel.Panel",xtype:"mainview",requires:["Signout.view.components.FormTabs"],margins:"0",layout:"card",items:[{xtype:"form-tabs",width:"100%",height:"100%"}]});
+//Allan Jiang 2013-07-27 16:59:25 app ./view/components/Main.js

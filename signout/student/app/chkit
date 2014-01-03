@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for fn in `cat /tmp/jslist`
+do
+    echo ${fn##*/}
+    jsb $fn out/${fn##*/}
+done
