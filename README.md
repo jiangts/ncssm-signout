@@ -1,6 +1,9 @@
 ncssm-signout
 =============
 
-NCSSM Sign-Out project technical details.
+NCSSM Sign-Out project, created by Tian-Shun Allan Jiang.
 
-Full source code could not be provided for security reasons. In particular, user auth details should remain hidden to prevent hacking.
+Project created for MIT Maker Portfolio.
+Note: Source code for the back-end could not be provided, because user auth details must remain hidden.
+
+Front-end code is provided here.
